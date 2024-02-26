@@ -27,9 +27,9 @@ $result = pengembalianBuku($nisn);
     }
   }
 </style>
-  <body style="background: url(../assets/bg.jpg) center / cover fixed; ">
+  <body style="background: url(../assets/poto1.jpg) center / cover fixed; ">
      <nav class="navbar fixed-top ">
-      <div class="container-fluid bg-primary">
+      <div class="container-fluid bg-warning">
         <a class="navbar-brand" href="#">
           <img src="../assets/logoNav.png" alt="logo" width="220px">
         </a>

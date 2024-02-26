@@ -8,10 +8,10 @@
     <title>E-perpus.eo</title>
     <link rel="icon" href="assets/logoh.png" type="image/png">
   </head>
-  <body style="background: url(assets/bg.jpg) center / cover fixed; ">
+  <body style="background: url(assets/poto1.jpg) center / cover fixed; ">
     <!--Navbar-->
    <nav class="navbar fixed-top navbar-expand-lg justify-space-between" >
-  <div class="container-fluid bg-primary">
+  <div class="container-fluid bg-warning">
     <img src="assets/logoNav.png" alt="logo" width="220px">
     <a href="sign/link_login.html" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>

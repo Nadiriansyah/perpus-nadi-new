@@ -22,10 +22,10 @@ if (isset($_POST['submit'])) {
      <title>Kelola peminjaman buku || admin</title>
      <link rel="icon" href="../../assets/logoh.png" type="image/png">
   </head>
-  <body style="background: url(../../assets/bg.jpg) center / cover fixed; ">
+  <body style="background: url(../../assets/poto1.jpg) center / cover fixed; ">
     
   <nav class="navbar fixed-top navbar-expand-lg ">
-  <div class="container-fluid bg-primary">
+  <div class="container-fluid bg-warning">
     <a class="navbar-brand" href="#">
       <img src="../../assets/logoNav.png" alt="logo" width="220px">
         </a>
